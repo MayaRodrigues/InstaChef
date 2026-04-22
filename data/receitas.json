@@ -1,0 +1,274 @@
+{
+  "receitas": [
+    {
+      "id": 1,
+      "nome": "Misto Quente",
+      "categoria": "Lanche",
+      "imagem": "../assets/img/misto_quente.jpg",
+      "tempo": "10 min",
+      "porcoes": 1,
+      "ingredientes": ["Pão", "Queijo", "Manteiga"],
+      "preparo": [
+        "Passe manteiga nos dois lados do pão.",
+        "Coloque o queijo entre as fatias de pão.",
+        "Leve à frigideira em fogo médio por 3 minutos de cada lado até dourar."
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Pão com Ovo Frito",
+      "categoria": "Lanche",
+      "imagem": "../assets/img/pao_ovo.jpg",
+      "tempo": "10 min",
+      "porcoes": 1,
+      "ingredientes": ["Pão", "Ovo", "Manteiga"],
+      "preparo": [
+        "Derreta a manteiga numa frigideira.",
+        "Quebre o ovo e frite no ponto desejado.",
+        "Sirva o ovo sobre o pão."
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Batata Frita com Queijo",
+      "categoria": "Lanche",
+      "imagem": "../assets/img/batata_queijo.jepg",
+      "tempo": "25 min",
+      "porcoes": 2,
+      "ingredientes": ["Batata", "Queijo"],
+      "preparo": [
+        "Corte as batatas em palitos e frite em óleo quente.",
+        "Escorra o excesso de óleo.",
+        "Cubra com queijo ralado enquanto ainda estiver quente e sirva."
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Frango Assado com Alho",
+      "categoria": "Jantar",
+      "imagem": "../assets/img/frango_alho.jpg",
+      "tempo": "60 min",
+      "porcoes": 4,
+      "ingredientes": ["Frango", "Alho", "Manteiga"],
+      "preparo": [
+        "Amasse o alho e misture com manteiga.",
+        "Esfregue a mistura por todo o frango.",
+        "Asse em forno pré-aquecido a 200°C por 50 minutos ou até dourar."
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Carne Refogada com Cebola",
+      "categoria": "Jantar",
+      "imagem": "../assets/img/carne_refogada.jpg",
+      "tempo": "30 min",
+      "porcoes": 3,
+      "ingredientes": ["Carne", "Cebola", "Alho"],
+      "preparo": [
+        "Refogue o alho e a cebola picados em azeite.",
+        "Acrescente a carne em cubos e tempere a gosto.",
+        "Cozinhe em fogo médio por 20 minutos mexendo sempre."
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Frango com Tomate e Cebola",
+      "categoria": "Jantar",
+      "imagem": "../assets/img/frango_tomate.jpg",
+      "tempo": "35 min",
+      "porcoes": 3,
+      "ingredientes": ["Frango", "Tomate", "Cebola", "Alho"],
+      "preparo": [
+        "Refogue o alho e a cebola no azeite.",
+        "Adicione o frango cortado em pedaços e doure.",
+        "Junte o tomate picado, tampe e cozinhe por 20 minutos em fogo baixo."
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "Batata Cozida com Cenoura",
+      "categoria": "Jantar",
+      "imagem": "../assets/img/batata_cenoura.jpg",
+      "tempo": "25 min",
+      "porcoes": 2,
+      "ingredientes": ["Batata", "Cenoura", "Manteiga"],
+      "preparo": [
+        "Descasque e corte a batata e a cenoura em cubos.",
+        "Cozinhe em água com sal por 15 minutos.",
+        "Escorra e tempere com manteiga derretida."
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Bolo Simples",
+      "categoria": "Sobremesa",
+      "imagem": "bolo.jpg",
+      "tempo": "50 min",
+      "porcoes": 8,
+      "ingredientes": [
+        "Farinha",
+        "Ovo",
+        "Açucar",
+        "Leite",
+        "Manteiga",
+        "Fermento"
+      ],
+      "preparo": [
+        "Bata os ovos com o açúcar e a manteiga.",
+        "Adicione o leite e a farinha peneirada aos poucos.",
+        "Por último acrescente o fermento e misture levemente.",
+        "Asse em forno pré-aquecido a 180°C por 35 minutos."
+      ]
+    },
+    {
+      "id": 9,
+      "nome": "Pudim de Leite",
+      "categoria": "Sobremesa",
+      "imagem": "../assets/img/pudim-de-leite.jpg",
+      "tempo": "90 min",
+      "porcoes": 6,
+      "ingredientes": ["Leite", "Ovo", "Açucar"],
+      "preparo": [
+        "Faça o caramelo derretendo o açúcar na forma.",
+        "Bata os ovos com o leite e o restante do açúcar.",
+        "Despeje na forma caramelizada e leve ao banho-maria por 1 hora."
+      ]
+    },
+    {
+      "id": 10,
+      "nome": "Biscoito de Manteiga",
+      "categoria": "Sobremesa",
+      "imagem": "../assets/img/biscoito.jpg",
+      "tempo": "30 min",
+      "porcoes": 20,
+      "ingredientes": ["Farinha", "Manteiga", "Açucar", "Ovo"],
+      "preparo": [
+        "Misture a manteiga em temperatura ambiente com o açúcar.",
+        "Adicione o ovo e a farinha até formar uma massa.",
+        "Modele os biscoitos e asse a 180°C por 15 minutos até dourar."
+      ]
+    },
+    {
+      "id": 11,
+      "nome": "Creme de Leite com Açucar",
+      "categoria": "Sobremesa",
+      "imagem": "../assets/img/creme_de_leite.jpg",
+      "tempo": "15 min",
+      "porcoes": 4,
+      "ingredientes": ["Leite", "Açucar", "Farinha", "Manteiga"],
+      "preparo": [
+        "Misture o leite, o açúcar e a farinha numa panela.",
+        "Leve ao fogo baixo mexendo sem parar até engrossar.",
+        "Retire do fogo, adicione a manteiga e sirva frio."
+      ]
+    },
+    {
+      "id": 12,
+      "nome": "Salada de Cenoura com Alho",
+      "categoria": "Vegano",
+      "imagem": "../assets/img/salada_cenoura.jpg",
+      "tempo": "10 min",
+      "porcoes": 2,
+      "ingredientes": ["Cenoura", "Alho"],
+      "preparo": [
+        "Rale a cenoura crua.",
+        "Amasse o alho e misture com azeite e sal.",
+        "Tempere a cenoura com o molho de alho e sirva."
+      ]
+    },
+    {
+      "id": 13,
+      "nome": "Refogado de Tomate com Cebola",
+      "categoria": "Vegano",
+      "imagem": "../assets/img/refogado_tomate.jpg",
+      "tempo": "15 min",
+      "porcoes": 2,
+      "ingredientes": ["Tomate", "Cebola", "Alho"],
+      "preparo": [
+        "Aqueça o azeite e refogue o alho e a cebola picados.",
+        "Adicione o tomate em cubos e tempere com sal e ervas.",
+        "Cozinhe por 5 minutos em fogo médio e sirva."
+      ]
+    },
+    {
+      "id": 14,
+      "nome": "Batata Assada com Alho",
+      "categoria": "Vegano",
+      "imagem": "../assets/img/batata_assada.jpg",
+      "tempo": "40 min",
+      "porcoes": 2,
+      "ingredientes": ["Batata", "Alho"],
+      "preparo": [
+        "Corte as batatas em metades e disponha numa assadeira.",
+        "Pique o alho e espalhe por cima com azeite e sal.",
+        "Asse a 200°C por 30 minutos até ficarem macias e douradas."
+      ]
+    },
+    {
+      "id": 15,
+      "nome": "Sopa de Cenoura e Batata",
+      "categoria": "Vegano",
+      "imagem": "../assets/img/sopa_cenoura.jpg",
+      "tempo": "30 min",
+      "porcoes": 3,
+      "ingredientes": ["Cenoura", "Batata", "Cebola", "Alho"],
+      "preparo": [
+        "Refogue a cebola e o alho no azeite.",
+        "Adicione a cenoura e a batata descascadas e picadas.",
+        "Cubra com água, tempere e cozinhe por 20 minutos. Bata tudo no liquidificador."
+      ]
+    },
+    {
+      "id": 16,
+      "nome": "Salada de Tomate com Cebola",
+      "categoria": "Vegano",
+      "imagem": "../assets/img/salada_tomate.jpg",
+      "tempo": "10 min",
+      "porcoes": 2,
+      "ingredientes": ["Tomate", "Cebola", "Alho"],
+      "preparo": [
+        "Fatie o tomate e a cebola.",
+        "Amasse o alho e misture com azeite, vinagre e sal.",
+        "Tempere a salada com o molho e sirva."
+      ]
+    },
+    {
+      "id": 17,
+      "nome": "Cenoura Cozida com Alho",
+      "categoria": "Vegano",
+      "imagem": "../assets/img/cenoura_cozida.jpg",
+      "tempo": "20 min",
+      "porcoes": 2,
+      "ingredientes": ["Cenoura", "Alho"],
+      "preparo": [
+        "Descasque e corte a cenoura em rodelas.",
+        "Cozinhe em água com sal por 15 minutos.",
+        "Escorra, refogue o alho picado no azeite e misture com a cenoura."
+      ]
+    },
+    {
+      "id": 19,
+      "nome": "omelete",
+      "categoria": "Lanche",
+      "imagem": "../assets/img/omelete.png",
+      "tempo": "15 min",
+      "porcoes": 1,
+      "ingredientes": ["Ovo", "Queijo", "Cebola"],
+      "preparo": [
+        "Bata os ovos com sal e pimenta.",
+        "Refogue a cebola picada em uma frigideira.",
+        "Despeje os ovos batidos, adicione o queijo e cozinhe até firmar."
+      ]
+    },
+    {
+      "id": 20,
+      "nome": "Ovo Frito",
+      "categoria": "Lanche",
+      "imagem": "../assets/img/ovo_frito.jpg",
+      "tempo": "5 min",
+      "porcoes": 1,
+      "ingredientes": ["Ovo"],
+      "preparo": ["Queime uma frigideira com óleo.", "Queime o ovo e sirva."]
+    }
+  ]
+}
