@@ -269,7 +269,7 @@ Após iniciar, escaneie o QR Code com o aplicativo **Expo Go** (Android) ou com 
 ---
 
 ## Autores
-
 Mayara Rodrigues Pereira @MayaRodrigues
 **Desenvolvido para InstaChef**
-_Desenvolvido com React Native_
+
+Desenvolvido com React Native
